@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.product-card {
+
+    width: 200px;
+    height: 350px;
+}
+.product-title{
+    color: green;
+    font-family:  "Times New Roman", "Arial Black", serif  ;
+    font-size: 24px;
+    text-align: center;
+}
+.product-image{
+    width: 100%;
+}

@@ -68,49 +68,53 @@
 //     console.log(arrClientSortElement);
 // }
 //
-//
+
+
+
+
+//!!!!!!!ДВА ОСТАНІХ ЗАВДАННЯ НЕ ЗАКІНЧИВ!!!!!!!!!!
 // TASK 6 - Створити функцію конструктор яка дозволяє створювати об'єкти car, з властивостями модель, виробник, рік випуску, максимальна швидкість, об'єм двигуна. додати в об'єкт функції:
 // -- drive () - яка виводить в консоль `їдемо зі швидкістю ${максимальна швидкість} на годину`
 // -- info () - яка виводить всю інформацію про автомобіль в форматі `назва поля - значення поля`
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
-function Car(model, producer, year, maxspeed, volume) {
-    this.model = model;
-    this.producer = producer;
-    this.year = year;
-    this.volume = volume;
-    this.maxspeed = maxspeed;
-    this.drive = function () {
-        console.log(`їдемо зі швидкістю ${this.maxspeed} на годину`);
-    }
-    this.info = function () {
-        for (const carElement of Car) {
-            console.log(carElement);
-
-        }
-    }
-    this.increaseMaxSpeed = function (newSpeed) {
-
-    }
-    this.changeYear = function (newValue){
-
-    }
-    this.addDriver = function (driver){
-
-    }
-}
-let auto = new Car();
-auto = [
-    {model:'Golf', producer:'VW', year:2010, maxspeed:180, volume:2.0},
-    {model:'A4', producer:'Audi', year:2011, maxspeed:280, volume:2.5},
-    {model:'Passat', producer:'VW', year:2005, maxspeed:200, volume:2.2},
-    {model:'6', producer:'Mazda', year:2008, maxspeed:280, volume:2.0},
-    {model:'3', producer:'Mazda', year:2014, maxspeed:180, volume:1.6}
-
-]
-auto.info()
-auto.drive();
+// function Car(model, producer, year, maxspeed, volume) {
+//     this.model = model;
+//     this.producer = producer;
+//     this.year = year;
+//     this.volume = volume;
+//     this.maxspeed = maxspeed;
+//     this.drive = function () {
+//         console.log(`їдемо зі швидкістю ${this.maxspeed} на годину`);
+//     }
+//     this.info = function () {
+//         for (const carElement of Car) {
+//             console.log(carElement);
+//
+//         }
+//     }
+//     this.increaseMaxSpeed = function (newSpeed) {
+//
+//     }
+//     this.changeYear = function (newValue){
+//
+//     }
+//     this.addDriver = function (driver){
+//
+//     }
+// }
+// let auto = new Car();
+// auto = [
+//     {model:'Golf', producer:'VW', year:2010, maxspeed:180, volume:2.0},
+//     {model:'A4', producer:'Audi', year:2011, maxspeed:280, volume:2.5},
+//     {model:'Passat', producer:'VW', year:2005, maxspeed:200, volume:2.2},
+//     {model:'6', producer:'Mazda', year:2008, maxspeed:280, volume:2.0},
+//     {model:'3', producer:'Mazda', year:2014, maxspeed:180, volume:1.6}
+//
+// ]
+// auto.info()
+// auto.drive();
 // - (Те саме, тільки через клас)
 // Створити клас який дозволяє створювати об'єкти car, з властивостями модель, виробник, рік випуску, максимальна швидкість, об'єм двигуна. додати в об'єкт функції:
 // -- drive () - яка виводить в консоль `їдемо зі швидкістю ${максимальна швидкість} на годину`

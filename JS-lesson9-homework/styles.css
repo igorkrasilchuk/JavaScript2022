@@ -1,0 +1,12 @@
+.simpson{
+    border: 1px solid;
+}
+.duration{
+    display: flex;
+}
+.monthDuration{
+    width: 25%;
+}
+table,tr,td {
+   border : 1px solid grey;
+}

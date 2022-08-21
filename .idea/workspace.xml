@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c043bcc-7a6c-452a-a484-800d7df0cbd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS-lesson1-homework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS-lesson1-homework/script.js" afterDir="false" />
+    <list default="true" id="1c043bcc-7a6c-452a-a484-800d7df0cbd1" name="Changes" comment="JavaScript_homework9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS-lesson3-homework/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS-lesson3-homework/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS-lesson8- homework/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS-lesson8- homework/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CJNsnpjwiFJKgfc05bOoP3zCZT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,9 +37,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,11 +53,131 @@
       <option name="presentableId" value="Default" />
       <updated>1658516938405</updated>
       <workItem from="1658577672131" duration="1169000" />
-      <workItem from="1658593792237" duration="3842000" />
+      <workItem from="1658593792237" duration="4797000" />
+      <workItem from="1658779006876" duration="56000" />
+      <workItem from="1658868508657" duration="3151000" />
+      <workItem from="1659039707183" duration="2364000" />
+      <workItem from="1659066832652" duration="1740000" />
+      <workItem from="1659087788528" duration="1076000" />
+      <workItem from="1659374851989" duration="53000" />
+      <workItem from="1659375320399" duration="426000" />
+      <workItem from="1659465151671" duration="5768000" />
+      <workItem from="1659498561715" duration="1513000" />
+      <workItem from="1659500136455" duration="219000" />
+      <workItem from="1659876599782" duration="9631000" />
+      <workItem from="1660070862354" duration="5061000" />
+      <workItem from="1660103186899" duration="2125000" />
+      <workItem from="1660122227749" duration="3130000" />
+      <workItem from="1660676141997" duration="6974000" />
+      <workItem from="1660727962100" duration="1538000" />
+      <workItem from="1660761240969" duration="4463000" />
+      <workItem from="1661023571964" duration="9980000" />
+      <workItem from="1661080381749" duration="494000" />
+      <workItem from="1661085698496" duration="10938000" />
     </task>
+    <task id="LOCAL-00001" summary="JavaScript_homework1">
+      <created>1658597720700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658597720700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JavaScript_homework2">
+      <created>1658871644824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658871644824</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JavaScript_homework3">
+      <created>1659088856180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659088856180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JavaScript_homework4">
+      <created>1659500065542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659500065542</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JavaScript_homework4">
+      <created>1659500180563</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659500180564</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JavaScript_homework4">
+      <created>1659500344949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659500344949</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JavaScript_homework5">
+      <created>1659893045063</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659893045063</updated>
+    </task>
+    <task id="LOCAL-00008" summary="JavaScript_homework6">
+      <created>1660125260401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660125260401</updated>
+    </task>
+    <task id="LOCAL-00009" summary="JavaScript_homework8">
+      <created>1660729364094</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660729364095</updated>
+    </task>
+    <task id="LOCAL-00010" summary="JavaScript_homework8">
+      <created>1660729509290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660729509290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="JavaScript_homework9">
+      <created>1661099837142</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661099837142</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaScript_homework1" />
+    <MESSAGE value="JavaScript_homework2" />
+    <MESSAGE value="JavaScript_homework3" />
+    <MESSAGE value="JavaScript_homework4" />
+    <MESSAGE value="JavaScript_homework5" />
+    <MESSAGE value="JavaScript_homework6" />
+    <MESSAGE value="JavaScript_homework8" />
+    <MESSAGE value="JavaScript_homework9" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript_homework9" />
   </component>
 </project>

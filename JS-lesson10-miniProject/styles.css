@@ -8,6 +8,7 @@ h2{
     }
 button{
     background: green;
+    border-radius: 5px;
 }
 button:hover{
     background: darkgreen;
@@ -17,6 +18,7 @@ button:hover{
     display: flex;
     justify-content: center;
     background: forestgreen;
+    border-radius: 5px;
 }
 .userDiv, .userNameDiv, .userDivA{
     background: forestgreen;

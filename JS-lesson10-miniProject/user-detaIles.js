@@ -66,6 +66,7 @@ button.onclick = function () {
                     }
                     divpost.append(h3post,olpost);
                     document.body.appendChild(divpost);
+                    button.disabled = true;
 
             });
 }

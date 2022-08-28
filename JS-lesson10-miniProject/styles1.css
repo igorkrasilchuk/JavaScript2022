@@ -1,0 +1,13 @@
+body{
+    background: seagreen;
+    display: flex;
+    justify-content:space-around;
+}
+
+button{
+    background: green;
+}
+button:hover{
+    background: darkgreen;
+
+}

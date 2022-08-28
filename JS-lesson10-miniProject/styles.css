@@ -1,0 +1,31 @@
+body{
+    background: seagreen;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    }
+button{
+    background: green;
+}
+button:hover{
+    background: darkgreen;
+
+}
+.divMainUsers {
+    display: flex;
+    justify-content: center;
+    background: forestgreen;
+}
+.userDiv, .userNameDiv, .userDivA{
+    background: forestgreen;
+    margin: 0 10px 0 10px;
+    padding-left: 5px;
+}
+.userA{
+    margin: 3px auto 1px auto;
+}
+.user{
+    margin: 5px auto 6px auto;
+}
